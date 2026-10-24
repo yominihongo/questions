@@ -1,18 +1,10 @@
 # YomiNihongo — JLPT Questions
 
-This repository stores JSON files containing Japanese Language Proficiency Test (JLPT) practice questions and explanations created for **YomiNihongo**.
+This repository stores JSON files created for **YomiNihongo**.
 
 ## About
 
 YomiNihongo is a Japanese learning project focused on helping students prepare for the JLPT through practice exercises and detailed explanations.
-
-The repository includes educational content for different JLPT levels, including:
-
-- **N5, N4, and N3**
-- Vocabulary and Kanji
-- Grammar
-- Reading Comprehension
-- Listening Comprehension
 
 ## Purpose
 
